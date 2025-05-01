@@ -1,2 +1,3 @@
 #Files to be ignored in git
 *.exe
+.DS_Store
