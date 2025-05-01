@@ -1,0 +1,2 @@
+#import Warrior.cpp
+main(){}
